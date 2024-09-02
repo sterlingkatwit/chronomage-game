@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Decayed
+  - Highlight
+  - GhostPlatform
+  - Wisp0
+  - Wall
+  - resultWin
+  - Decaying
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 721924621
+    locked: 0
+  - name: Ground
+    uniqueID: 1335455655
+    locked: 0
+  - name: Building
+    uniqueID: 2242487303
+    locked: 0
+  - name: Wisp
+    uniqueID: 3009241603
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FX?
+    uniqueID: 2917725019
+    locked: 0
